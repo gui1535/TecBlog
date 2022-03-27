@@ -1,6 +1,8 @@
 # Blog-Tech
 https://gui1535.github.io/Blog-Tech/
-<p> Pagina inicial de um blog de tecnologia </p>
+<h4 align="center"> 
+    :construction:  Projeto em construção  :construction:
+</h4>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
